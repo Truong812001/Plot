@@ -186,7 +186,8 @@ class Plot():
 
 
 		
-
+def test():
+	return
 
 if __name__ == '__main__':
 	fi='Inputs33bus.xlsx'
@@ -198,3 +199,5 @@ if __name__ == '__main__':
 
 
 	plt.show()
+
+
